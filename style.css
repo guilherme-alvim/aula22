@@ -1,0 +1,136 @@
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+    position: relative;
+}
+
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: rgb(27, 26, 26);
+    border-radius: 5px;
+}
+h3{
+    color: #0B132A;
+    margin: 0;
+    padding: 5px;
+
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+
+}
+.container-flex{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.item{
+    display: flex;
+    margin: 20px;
+    text-align: center;
+    justify-content: space-between;
+}
+.cabecalho{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    justify-content: space-between;
+}
+
+.botao1{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+   
+}
+.botao2{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+    
+    
+}
+
+a{
+    color: black;
+}
+
+h1{
+    font-size: 48px;
+    
+}
+.container-section{
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+    
+}
+
+.sobretitulo{
+    max-width: 500px;
+    padding: 5px;
+}
+
+img{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.botao{
+    border-radius: 10px;
+    background-color: red;
+    width: 250px;
+    height: 60px;
+    flex-shrink: 0;
+    color: white;
+}
+.conteudo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.classe{
+    display: flex;
+    margin: 80px;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.user{
+    display: flex;
+    margin: 25px;
+    color: #0B132A;
+}
+.localizacao{
+    display: flex;
+    margin: 25px;
+}
+.users{
+    display: flex;
+    margin: 30px;
+}   
+.paragrafo{
+    align-items: center;
+    display: flex;
+   
+}
